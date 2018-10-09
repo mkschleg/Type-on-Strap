@@ -9,7 +9,7 @@ tags: [Meta, About]
 
 So why am I starting a blog? And what is it going to be about? These are great questions, and hopefully this post will act as a launching pad for the content that will eventually be found here. Instead of having a long rant up front, I'm going to answer a bunch of questions you may have and you can easily skip sections if they are uninteresting.
 
-## Who the heck am I?
+## Who the heck are you?
 
 Well. I'm a PhD student at the University of Alberta in Edmonton, Alberta, Canada. I've found my way here through my current advisor, Martha White, who was initially an assistant professor (on tenure track) at Indiana University. I met her when I was finishing my first graduate degree in computer science at the now School of Informatics, Computing, and Engineering (SOIC when I was enrolled). I also have had the pleasure of working with Martha and her husband (who was a post-doc at IU and now a research scientist at the Edmonton Deep Mind office) in machine learning and reinforcement learning. I worked on many projects, mostly related to discovery of prototypes or predictions for representations (see my published works page!) and was offered a chance to continue my education at UofA when Martha was offered a position.
 
@@ -46,7 +46,7 @@ No. Although I'll be talking about cafes I visit, I am not qualified to "review"
 
 ## Why aren't you just focusing on AI?
 
-I feel this is overdone. There are hundreds of PhD students writing blogs on AI (many of which I frequent) but these just come off many times as synopsis of papers and don't add much content (there are plenty of exceptions). I want to talk about AI differently, but this will take me some time to figure out how so why not focus on coffee for now and slip in bits of AI to make the conversation natural. I also like the idea of making this blog approachable to many people, focusing less on math and more on the interpretation and open to all coffee lovers who may be interested in reading about AI.
+I feel this is overdone. There are hundreds of PhD students writing blogs on AI (many of which I frequent) but these just come off, many times, as synopsis of papers and don't add much content (there are plenty of exceptions of course). I want to talk about AI differently, but this will take  some time to figure out so why not also talk about coffee, my other love, and slip in bits of AI. I also like the idea of making this blog approachable to many people, focusing less on math and more on the interpretation and open to all coffee lovers who may be interested in reading about AI as well.
 
 ## What do you mean "Coffee induced content from an AI researcher"?
 
