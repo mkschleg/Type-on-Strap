@@ -43,6 +43,10 @@ header {
     }
 }
 
+h1.title, p.meta{
+    background-color: rgba(0,0,0,0.4);
+}
+
 .meta {
     color: rgba($text-color, .5);
     font-size: 0.9em;

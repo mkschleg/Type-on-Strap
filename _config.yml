@@ -2,7 +2,7 @@
 baseurl: "/blog"
 url: "https://mkschleg.github.io"
 title: Coffeeside AI # site's title
-description: "A blog with caffeine induced content by an AI researcher" # used by search engines
+description: "A blog with caffeine induced content from an AI researcher" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
@@ -15,7 +15,7 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <div> <p> A blog with caffeine induced content by an AI researcher</p> </div>
+     <div> <p> Caffeine induced content from an AI researcher</p> </div>
   header_text_feature_image: assets/img/coffee/hectic.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
@@ -40,7 +40,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: # "twitter username"
+  twitter: mattschleg # "twitter username"
   vimeo:
   wordpress:
   youtube:

@@ -12,11 +12,13 @@ The various algorithms presented are under no license (unless otherwise specifie
 
 The beautiful layout is powered by the Type on Strap theme (with some minor personal modifications) which can be found [here](https://github.io/sylhare/Type-on-Strap).
 
+All pictures are copyright Matthew Schlegel, unless otherwise mentioned.
+
 # About Me
 
 ![Image of Me!]({{ site.baseurl }}/assets/img/me.jpg){: width="40%" class="me_img"}
 
-I'm a PhD student at the University of Alberta in Edmonton, Alberta, Canada. I have a BS in Physics and MS in Computer Science, and have been studying reinforcement learning for 3 years. You can find my personal website [here](https://mkschleg.github.io/index.html).
+I'm a PhD student at the University of Alberta in Edmonton, Alberta, Canada. I have a BS in Physics and MS in Computer Science, and have been studying reinforcement learning for 3 years. You can find my personal website [here](https://mkschleg.github.io/index.html). I am an avid coffee lover and workaholic, always willing to help on particular problems people bring to me.
 
 
 
