@@ -43,8 +43,12 @@ header {
     }
 }
 
-h1.title, p.meta{
-    background-color: rgba(0,0,0,0.4);
+article.feature-image {
+    header{
+        h1.title, p.meta{
+            background-color: rgba(0,0,0,0.4);
+        }
+    }
 }
 
 .meta {
