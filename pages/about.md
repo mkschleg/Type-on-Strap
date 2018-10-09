@@ -16,7 +16,7 @@ All pictures are copyright Matthew Schlegel, unless otherwise mentioned.
 
 # About Me
 
-![Image of Me!]({{ site.baseurl }}/assets/img/me.jpg){: width="40%" class="me_img"}
+![Image of Me!]({{ site.baseurl }}/assets/img/me.png){: width="40%" class="me_img"}
 
 I'm a PhD student at the University of Alberta in Edmonton, Alberta, Canada. I have a BS in Physics and MS in Computer Science, and have been studying reinforcement learning for 3 years. You can find my personal website [here](https://mkschleg.github.io/index.html). I am an avid coffee lover and workaholic, always willing to help on particular problems people bring to me.
 
