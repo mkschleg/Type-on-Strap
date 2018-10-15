@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
 baseurl: "/blog"
 url: "https://mkschleg.github.io"
-title: Coffeeside AI # site's title
+title: CoffeeSide AI # site's title
 description: "A blog with caffeine induced content from an AI researcher" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Coffeeside AI # blog's title
+  title: CoffeeSide AI # blog's title
   avatar: assets/img/coffee_icon.jpeg
   favicon: assets/favicon_coffee_2.ico
   gravatar: # Email MD5 hash
