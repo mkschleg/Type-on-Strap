@@ -36,7 +36,7 @@ Good question. I'm not sure, and frankly I think that is for the best. I would r
 
 Coffee is the greatest. I mean truly the greatest. I drink it black (unless I decide to get a latte or cappuccino) because milk and sugar typically mask the true flavor of the bean. Currently my favorite coffee roaster is Transcend, which has a cafe on 109 St (if your Edmontonian, right next to the Garneau theatre). I started drinking coffee on the night before my first set of physics exams (overview of modern physics... shudder) and had a Pumpkin Spice latte from Starbucks. My genetics took control and I went from the most overly sugared cup of coffee in America to drinking black Americanos in a few days. I wouldn't gain a true appreciation for coffee until after my undergraduate degree, but we all have to start somewhere. 
 
-I have gone on coffee adventures around North America and Europe and hope to explore many more in the future. I've appreciated good espresso in (but not limited to) Denver, Chicago, Elk Heart (Wisconsin), Toronto, Sioux Falls, San Francisco, LA, Oakland, Paris, London, Brussels, Amsterdam, Vienna, Zurich, Barcelona, and much more. I hope to share more stories of these and future adventures here as I become ever addicted to caffeine.
+I have gone on coffee adventures around North America and Europe and hope to explore more in the future. I've appreciated good espresso in (but not limited to) Denver, Chicago, Elk Heart (Wisconsin), Toronto, Sioux Falls, San Francisco, LA, Oakland, Paris, London, Brussels, Amsterdam, Vienna, Zurich, Barcelona, and much more. I hope to share more stories of these and future adventures here as I become ever addicted to caffeine.
 
 The tranquility of sipping an espresso (loudly) while people watching in a cafe is by far amongst my most enjoyable frequent habits. Typically, I enjoy a savory roast with lots of smoky goodness and a touch of bitter overtones, but I'm not overly picky as long as the barista knows their way around a machine. I think every cafe has the potential to be wonderfully unique, and many of the the businesses that I go to regularly have their own flavor.
 
@@ -48,7 +48,7 @@ No. Although I'll be talking about cafes I visit, I am not qualified to "review"
 
 I feel this is overdone. There are hundreds of PhD students writing blogs on AI (many of which I frequent) but these just come off, many times, as synopsis of papers and don't add much content (there are plenty of exceptions of course). I want to talk about AI differently, but this will take  some time to figure out so why not also talk about coffee, my other love, and slip in bits of AI. I also like the idea of making this blog approachable to many people, focusing less on math and more on the interpretation and open to all coffee lovers who may be interested in reading about AI as well.
 
-## What do you mean "Coffee induced content from an AI researcher"?
+## What do you mean "Caffeine induced content from an AI researcher"?
 
 I mean... it is exactly what it says. This blog is by an AI researcher with a deep (and sometimes unsettling) love for coffee with discussions on coffee and AI without any prior planning. Many of the posts will be written in cafes and inspired by high intakes of caffeine.
 
