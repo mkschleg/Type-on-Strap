@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: ""
-url: "coffeesideai.com"
+baseurl: "/blog"
+url: "mkschleg.github.io"
 title: CoffeeSide AI # site's title
 description: "A blog with caffeine induced content from an AI researcher" # used by search engines
 
