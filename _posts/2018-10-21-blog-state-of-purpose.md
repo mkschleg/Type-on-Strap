@@ -30,7 +30,7 @@ Good question. I'm not sure, and frankly I think that is for the best. I would r
 - Reinforcement Learning/Machine Learning/AI (Yeah this is a given).
 - Ravings about coffee and other nonsense I get into at cafes. 
 - Psychology (particularly behavioral and cognitive theories)
-- Philosophy: really you should check out what [Kangaloosh](https://kongaloosh.com/) is up to. She is extremely knowledgeable about many things related to AI and philosophy.
+- Philosophy: really you should check out what [Kongaloosh](https://kongaloosh.com/) is up to. She is extremely knowledgeable about many things related to AI and philosophy.
 
 ## What is up with you and coffee?
 
@@ -54,6 +54,6 @@ I mean... it is exactly what it says. This blog is by an AI researcher with a de
 
 ## What should I look for next?
 
-I have two starting threads that I want to write. First is a primer on coffee and why it is something we all should be drinking (or really a long rant about the best drink crafted by humankind), second is a primer on AI focused towards grounding the high expectations many people have. I want to have fun with all of my writing here so be prepared for snarky commentary and a big bowl of skepticism with coffee commentary interspersed everywhere.
+I have a few starting threads that I want to write, but other content may come before these monolithic posts. First is a primer on coffee and why it is something we all should be drinking (or really a long rant about the best drink crafted by humankind), second is a primer on AI focused towards grounding the high expectations many people have. I want to have fun with all of my writing here so be prepared for snarky commentary and a big bowl of skepticism with coffee commentary interspersed everywhere.
 
 I'm excited to be crafting something (hopefully) unique, and look forward to the weird mix of caffeine induced rants brought to you by an overly stressed PhD student's lack of sleep. 
