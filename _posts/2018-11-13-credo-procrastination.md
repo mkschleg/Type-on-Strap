@@ -20,7 +20,7 @@ Ok, look. You can say this diatribe only exists as a mad attempt to procrastinat
 
 Back to it. I always take the remnants of the stir on the spoon and have an initial taste. Here the crema hits hard. It is bright, and slightly acidic in the best ways. I dig into the body, and find a full bodied more savory taste. It matches well with the acidic overtones. It is a solid experience, and well worth the trip.
 
-![Image of the crema at Credo Coffee]({{ site.baseurl }}/assets/img/coffee/credo_full_cup.jpeg)
+![Image of the espresso at Credo Coffee]({{ site.baseurl }}/assets/img/coffee/credo_full_cup.jpeg)
 
 ## The Cafe
 
